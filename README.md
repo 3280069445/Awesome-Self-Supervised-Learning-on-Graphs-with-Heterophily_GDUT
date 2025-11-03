@@ -10,7 +10,8 @@ This repository contains a curated list of **heterophilic graph self-supervised 
 
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
-| GLANCE: Graph Logic Attention Network with Cluster Enhancement for Heterophilous Graph Representation Learning | _Arxiv 2025_ | [[PDF]](https://arxiv.org/pdf/2507.18521)) | [Not Available] |
+| GLANCE: Graph Logic Attention Network with Cluster Enhancement for Heterophilous Graph Representation Learning | _Arxiv 2025_ | [[PDF]](https://arxiv.org/pdf/2507.18521) | [Not Available] |
+| Adaptive Graph Mixture of Residual Experts: Unsupervised Learning on Diverse Graphs with Heterogeneous Specialization | _Arxiv 2025_ | [[PDF]](https://arxiv.org/pdf/2510.21207) | [[Code](https://github.com/YujunLi361/AFECL) |
 ----------
 
  ## Year 2024
