@@ -6,6 +6,14 @@ This repository contains a curated list of **heterophilic graph self-supervised 
 
 *Continuously updating!*
 
+ ## Year 2024
+
+| **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
+| --------------- | :--------: | :--------: | :--------: | 
+
+----------
+
+
  ## Year 2023
 
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
